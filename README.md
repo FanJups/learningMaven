@@ -21,5 +21,14 @@ Learning windows commands
 
 https://www.commentcamarche.net/faq/13047-invite-de-commande-cmd-sous-windows-10-8-et-7
 
+I get this error :
+
+"no compiler is provided in this environment. perhaps you are running on a jre rather than a jdk cmd"
+
+So I need to change my system variable. 
+
+I succeed, thanks to https://stackoverflow.com/questions/22721283/maven-commandline-no-compiler-is-provided-in-this-environment
+
+
 
 
