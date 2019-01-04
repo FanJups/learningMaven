@@ -29,6 +29,11 @@ So I need to change my system variable.
 
 I succeed, thanks to https://stackoverflow.com/questions/22721283/maven-commandline-no-compiler-is-provided-in-this-environment
 
+I get this error : "java.lang.NoClassDefFoundError: org/apache/maven/doxia/siterenderer/DocumentContent" while generating the site of
+my maven project
+
+https://stackoverflow.com/questions/51091539/maven-site-plugins-3-3-java-lang-classnotfoundexception-org-apache-maven-doxia
+
 
 
 
