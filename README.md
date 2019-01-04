@@ -17,4 +17,9 @@ https://stackoverflow.com/questions/22721283/maven-commandline-no-compiler-is-pr
 
 https://crunchify.com/mavenmvn-clean-install-update-project-and-project-clean-options-in-eclipse-ide-to-fix-any-dependency-issue/
 
+Learning windows commands
+
+https://www.commentcamarche.net/faq/13047-invite-de-commande-cmd-sous-windows-10-8-et-7
+
+
 
