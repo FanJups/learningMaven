@@ -34,6 +34,10 @@ my maven project
 
 https://stackoverflow.com/questions/51091539/maven-site-plugins-3-3-java-lang-classnotfoundexception-org-apache-maven-doxia
 
+https://stackoverflow.com/questions/2555845/how-to-update-maven-repository-in-eclipse/24509023
+
+https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+
 
 
 
