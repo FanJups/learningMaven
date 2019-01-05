@@ -81,6 +81,14 @@ http://objis.com/tutoriel-integration-git-maven/
 
 https://maven.apache.org/scm/git.html
 
+developerconnection github
+
+https://www.google.com/search?q=developerconnection+github&oq=developerConnection&aqs=chrome.5.69i57j0l5.8751j0j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/kevinsawicki/github-maven-example/blob/master/example/pom.xml
+
+
+
 
 
 
