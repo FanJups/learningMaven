@@ -108,6 +108,8 @@ https://www.google.com/search?q=failed+to+execute+goal+com.github.github%3A+down
 
 https://github.com/github/maven-plugins/issues/41
 
+https://maven.apache.org/plugins/maven-project-info-reports-plugin/
+
 
 
 
