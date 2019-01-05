@@ -75,6 +75,14 @@ To solve the problem about mvn site, I add this to pom.xml
 
 ```
 
+GIT MAVEN
+
+http://objis.com/tutoriel-integration-git-maven/
+
+https://maven.apache.org/scm/git.html
+
+
+
 
 
 
