@@ -38,6 +38,43 @@ https://stackoverflow.com/questions/2555845/how-to-update-maven-repository-in-ec
 
 https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
 
+To solve the problem about mvn site, I add this to pom.xml 
+
+```
+
+<reporting>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-project-info-reports-plugin</artifactId>
+            <version>3.0.0</version>
+            <reportSets>
+                <reportSet>
+                    <reports>
+                        <report>index</report>
+                        <report>licenses</report>
+                        <report>dependency-info</report>
+                    </reports>
+                </reportSet>
+            </reportSets>
+        </plugin>
+    </plugins>
+</reporting>
+
+<build>
+    <plugins>
+        <!-- Part of Maven - specified version explicitly for compatibility
+             with the maven-project-info-reports-plugin 3.0.0-->
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-site-plugin</artifactId>
+            <version>3.7.1</version>
+        </plugin>
+    </plugins>
+</build>
+
+```
+
 
 
 
