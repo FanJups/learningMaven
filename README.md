@@ -100,6 +100,15 @@ https://github.com/kevinsawicki/github-maven-example
 https://www.google.com/search?q=maven+release+plugin+scm+comment+prefix&oq=%3CscmCommentPrefix%3E&aqs=chrome.2.69i57j0l3.11682j0j7&sourceid=chrome&ie=UTF-8
 
 
+I get this error while running mvn clean install (git deployment)
+
+https://www.google.com/search?q=an+api+incompatibility+was+encountered+while+executing&oq=An+API+&aqs=chrome.2.69i57j69i60j0l4.33601j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?q=failed+to+execute+goal+com.github.github%3A+downloads-maven-plugin%3A0.6%3Aupload&oq=failed+to+execute+goal+com.github.github%3A+downloads-maven-plugin%3A0.6%3Aupload&aqs=chrome..69i57.107082j0j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/github/maven-plugins/issues/41
+
+
 
 
 
