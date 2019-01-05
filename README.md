@@ -87,6 +87,16 @@ https://www.google.com/search?q=developerconnection+github&oq=developerConnectio
 
 https://github.com/kevinsawicki/github-maven-example/blob/master/example/pom.xml
 
+Finding maven settings.xml file for maven eclipse
+
+https://www.google.com/search?q=settings.xml+maven+eclipse&oq=settings.xml+maven+&aqs=chrome.4.69i57j0l5.24584j1j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/4626609/maven-plugin-in-eclipse-settings-xml-file-is-missing
+
+http://maven.apache.org/settings.html
+
+
+
 
 
 
