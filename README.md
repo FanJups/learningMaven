@@ -95,6 +95,12 @@ https://stackoverflow.com/questions/4626609/maven-plugin-in-eclipse-settings-xml
 
 http://maven.apache.org/settings.html
 
+https://github.com/kevinsawicki/github-maven-example
+
+https://www.google.com/search?q=maven+release+plugin+scm+comment+prefix&oq=%3CscmCommentPrefix%3E&aqs=chrome.2.69i57j0l3.11682j0j7&sourceid=chrome&ie=UTF-8
+
+
+
 
 
 
