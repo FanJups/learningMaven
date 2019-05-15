@@ -110,7 +110,11 @@ https://github.com/github/maven-plugins/issues/41
 
 https://maven.apache.org/plugins/maven-project-info-reports-plugin/
 
+## how to get all archetypes maven in eclipse
 
+https://www.google.com/search?q=how+to+get+all+archetypes+maven+in+eclipse&oq=how+to+get&aqs=chrome.1.69i57j69i59j35i39j0l3.10923j1j7&sourceid=chrome&ie=UTF-8
+
+https://howtodoinjava.com/eclipse/how-to-import-maven-remote-archetype-catalogs-in-eclipse/
 
 
 
