@@ -116,6 +116,10 @@ https://www.google.com/search?q=how+to+get+all+archetypes+maven+in+eclipse&oq=ho
 
 https://howtodoinjava.com/eclipse/how-to-import-maven-remote-archetype-catalogs-in-eclipse/
 
+## Maven POM reference
+
+https://maven.apache.org/pom.html
+
 
 
 
