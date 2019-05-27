@@ -120,6 +120,12 @@ https://howtodoinjava.com/eclipse/how-to-import-maven-remote-archetype-catalogs-
 
 https://maven.apache.org/pom.html
 
+## why is it important to get a license for a open source project ?
+
+https://www.google.com/search?q=why+is+it+important+to+get+a+license+for+a+open+source+project+%3F&oq=why+is+it+important+to+get+a+license+for+a+open+source+project+%3F&aqs=chrome..69i57.34456j0j7&sourceid=chrome&ie=UTF-8
+
+https://medium.com/@apondihazel/the-importance-of-an-open-source-license-and-how-to-add-one-to-your-project-cf0f8cd6d806
+
 
 
 
